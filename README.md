@@ -43,18 +43,23 @@ Divyaamith/Kaggle-Resume
 1️⃣ Data Loading
 * Resume dataset loaded using Hugging Face datasets library
 * Converted into Pandas DataFrame
+  
 2️⃣ Data Preprocessing
 * Removed null resume entries
 * Cleaned and prepared resume text for NLP processing
+  
 3️⃣ TF-IDF Vectorization
 * Converted textual resume data into numerical feature vectors
 * Captured important keywords and terms
+  
 4️⃣ Similarity Calculation
 * Compared resumes with the input job description
 * Used cosine similarity to compute relevance scores
+  
 5️⃣ Candidate Ranking
 * Ranked candidates based on similarity scores
 * Displayed top matching resumes
+  
 6️⃣ Visualization
 * Generated score visualization using Streamlit charts
   
@@ -68,9 +73,10 @@ Divyaamith/Kaggle-Resume
 📊 Machine Learning / NLP Approach
 * TF-IDF Vectorization: TF-IDF converts text into numerical vectors by measuring the importance of words within resumes and job descriptions.
 
-*Cosine Similarity: Cosine similarity measures how closely a resume matches the job description based on vector similarity.
+* Cosine Similarity: Cosine similarity measures how closely a resume matches the job description based on vector similarity.
 
 💻 Running the Project
+
 Install Dependencies
 * pip install pandas numpy scikit-learn streamlit datasets matplotlib
 
