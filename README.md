@@ -1,4 +1,4 @@
-# Resume-Parsing-and-Ranking-Resume-for-Recruiters
+# Resume Parsing & Candidate Ranking System
 🚀 Project Overview
 
 This project is an AI-powered Resume Parsing and Candidate Ranking System developed to assist recruiters in automating the resume screening process. The system analyzes resumes, compares them with a given job description, and ranks candidates based on similarity scores.
